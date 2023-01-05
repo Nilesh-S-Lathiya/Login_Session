@@ -1,4 +1,6 @@
 
+
+
 In terminal for server 
 
 1) cd server/
@@ -12,6 +14,7 @@ In terminal for frontend
 2)npm install
 3)npm start
 
+database name is practical 
 
 Please share your confirmation for the same and complete same day and revert solution
 
