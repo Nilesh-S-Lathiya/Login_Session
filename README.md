@@ -16,7 +16,7 @@ In terminal for frontend
 
 database name is practical 
 
-Please share your confirmation for the same and complete same day and revert solution
+What in this project 
 
 1) Setup React.Js, Node project and fresh mysql database
 
